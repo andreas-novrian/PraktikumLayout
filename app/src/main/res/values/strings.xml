@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">PraktikumLayout</string>
+    <string name="phone_description">Description :\n
+        Samsung Galaxy Z Flip3 5G hadir dengan spesifikasi RAM berkapasitas 8 GB, chipset Snapdragon 888 5G dengan prosesor
+        Octa-core (1×2.84 GHz Kryo 680 dan 3×2.42 GHz Kryo 680 dan 4×1.80 GHz Kryo 680), GPU Adreno 660 dan kamera utama beresolusi 12 MP.</string>
+    <string name="phone_display">Type : Foldable Dynamic AMOLED 2X, 120Hz, HDR10+, 1200 nits (peak)\n
+        Size : 7.6 inches, 179.9 cm2 (~88.8% screen-to-body ratio)\n
+        Resolution :\n
+        - 1768 x 2208 pixels (~374 ppi density)\n
+        - Cover display:\n
+        - Dynamic AMOLED 2X, 120Hz, Corning Gorilla Glass Victus\n
+        - 6.2 inches, 832 x 2268 pixels, 25:9 ratio
+    </string>
+    <string name="phone_camera">
+        Triple :\n
+        - 12 MP, f/1.8, 26mm (wide)\n
+        - 12 MP, f/2.4, 52mm (telephoto)\n
+        - 12 MP, f/2.2, 123˚, 12mm (ultrawide)\n
+        Features : LED flash, HDR, panorama\n
+        Video : 4K@60fps, 1080p@60/240fps (gyro-EIS), 720p@960fps (gyro-EIS), HDR10+
+    </string>
+    <string name="phone_comms">
+        WLAN : Wi-Fi 802.11 a/b/g/n/ac/6e, dual-band, Wi-Fi Direct\n
+        Bluetooth : 5.2, A2DP, LE, aptX HD\n
+        Positioning : GPS, GLONASS, GALILEO, BDS\n
+        USB : USB Type-C 3.2
+    </string>
+    <string name="phone_other">
+        Type : Li-Po 4400 mAh, non-removable\n
+        Charging : \n
+        - 25W wired\n
+        - 11W wireless\n
+        - 4.5W reverse wireless\n
+        Colors :\n
+        - Phantom Black\n
+        - Phantom Silver\n
+        - Phantom Green\n
+        - Thom Browne Edition\n
+        - Wooyoungmi Edition
+    </string>
+    <string name="phone_test">
+        Models : SM-F926B, SM-F926B/DS, SM-F926U, SM-F926U1, SM-F926W, SM-F9260, SM-F926N\n
+        Performance :\n
+        - AnTuTu: 635918 (v8), 752218 (v9)\n
+        - GeekBench: 12719 (v4.4), 3239 (v5.1)\n
+        - GFXBench: 38fps (ES 3.1 onscreen)\n
+        Camera : Photo / Video\n
+        Loudspeaker : 25.6 LUFS (Very good)
+    </string>
+</resources>
